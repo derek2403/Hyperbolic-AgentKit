@@ -1,0 +1,1 @@
+export PATH="/Users/$USER/.local/bin:$PATH" 
